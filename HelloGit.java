@@ -7,7 +7,7 @@ public class HelloGit {
 		System.out.println("This is a branch");
 
 
-		System.out.println("watchout!");
+		System.out.println("watchout for this change in the master!");
 		System.out.println("Going to add some stuff!");
 
 	}
