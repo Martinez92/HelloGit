@@ -10,5 +10,7 @@ public class HelloGit {
 		System.out.println("watchout for this change in the master!");
 		System.out.println("Going to add some stuff!");
 
+		System.out.println("I just pushed this up to GitHub, hello GitHub!");
+
 	}
 }
